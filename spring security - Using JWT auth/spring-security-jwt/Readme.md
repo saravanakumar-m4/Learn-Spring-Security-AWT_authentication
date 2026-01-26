@@ -67,7 +67,3 @@ Authorization Server
 Resource Server
 
 must be separate applications.
-
-🏆 Goal
-
-To understand industry-standard JWT authentication using Spring OAuth2 Resource Server – the same model used by Google, Azure, AWS Cognito, and Okta.
