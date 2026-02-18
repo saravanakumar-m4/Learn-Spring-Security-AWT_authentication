@@ -49,7 +49,6 @@ public class basicSecurityConfig {
 	 * http.csrf(csrf -> csrf.disable());
 	 * 
 	 * // http.csrf(AbstractHttpConfigurer::disable);
-	 * 
 	 * // http.addFilterBefore(null, UsernamePasswordAuthenticationFilter.class);
 	 * return http.build(); }
 	 */
@@ -136,3 +135,4 @@ public class basicSecurityConfig {
 	}
 
 }
+
